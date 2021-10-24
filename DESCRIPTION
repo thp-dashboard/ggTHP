@@ -16,3 +16,5 @@ Imports:
     librarian,
     magick,
     systemfonts
+URL: https://github.com/mibarnes/ggTHP
+BugReports: https://github.com/mibarnes/ggTHP/issues
