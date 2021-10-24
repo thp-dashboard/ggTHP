@@ -103,7 +103,7 @@ theme_brookings <- function(base_size = 14,
     panel.border =       element_blank(),
     panel.grid =         element_line(colour = "#CCCCCC",
                                       # size = 1,
-                                      linetype = "dotted"),
+                                      linetype = "solid"),            ### Horizontal Gridlines - Solid ###
     panel.grid.major.x = element_blank(),
     panel.grid.minor =   element_blank(),
     # panel.spacing =      unit(half_line, "pt"),
@@ -130,7 +130,7 @@ theme_brookings <- function(base_size = 14,
     plot.title =         ggtext::element_textbox_simple(
       # font size "large"
       size = rel(1.2),
-      color = "#003A79",
+      color = "#007363",                                     ### TITLE COLOR - THP ###
       face = "bold",
       hjust = 0,
       vjust = 1,
