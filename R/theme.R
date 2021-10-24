@@ -111,7 +111,7 @@ theme_brookings <- function(base_size = 14,
     # panel.spacing.y =  unit(2, "lines"),
     panel.ontop    =     FALSE,
 
-    strip.background =   element_rect(fill = "#003A79", colour = NA),
+    strip.background =   element_rect(fill = "#007363", colour = NA),      ### FIGURE NUMBER LABEL COLOR - THP ###
     strip.text =         element_text(
       colour = "#FAFAFA",
       size = rel(0.8),
@@ -157,7 +157,7 @@ theme_brookings <- function(base_size = 14,
       size = rel(0.8),
       hjust = 0,
       vjust = 1,
-      color = "#003A79"
+      color = "#007363"                             ### FIGURE NUMBER LABEL COLOR - THP ###
     ),
     plot.tag.position =  c(0, 1),
     plot.margin =        margin(half_line, half_line, half_line * 2, half_line),
