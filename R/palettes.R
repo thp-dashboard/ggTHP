@@ -177,11 +177,9 @@ brookings_palettes <- list(
   # MISCELLANEOUS
   # A pleasing option using Brookings Blue and accent yellow
 
-  THP_categorical = brookings_cols("THP_dkgreen", "THP_purple", "THP_green",  "THP_green", "THP_yellow", "THP_dkblue","THP_purple"),
+  THP_categorical1 = brookings_cols("THP_dkgreen","THP_green","THP_purple"),
 
-  THP_categorical1 = brookings_cols("THP_dkgreen", "THP_purple", "THP_green", "THP_ltblue", "THP_yellow", "THP_dkblue","THP_orange"),
-
-  THP_categorical2 = brookings_cols("THP_dkblue", "THP_green", "THP_ltblue", "THP_yellow", "THP_purple", "THP_orange"),
+  THP_categorical2 = brookings_cols("THP_dkblue","THP_green", "THP_ltblue", "THP_yellow", "THP_purple", "THP_orange"),
 
 
   THP_continuous_purple = brookings_cols("extra_ltpurple", "THP_purple")
