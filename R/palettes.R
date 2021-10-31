@@ -128,7 +128,6 @@ brookings_colors <-
 
     extra_ltpurple = '#C957BC',
 
-    TESTING_purp = '#C957BC'
 
     )
 
@@ -165,7 +164,8 @@ brookings_palettes <- list(
   brand1 = brookings_cols("brookings blue", "orange_40", "vivid_blue_20", "grey_10", "yellow_50"),
 
   # SEMANTIC
-  # Where applicable, use colors that are associated with certain concepts. For e.g., option 1 shows male and female data, and option 2 show pros and cons or positive and negative data.
+  # Where applicable, use colors that are associated with certain concepts. For e.g.,
+  #option 1 shows male and female data, and option 2 show pros and cons or positive and negative data.
   semantic_gender = brookings_cols("teal_30", "red_40"),
 
   political2 = brookings_cols("vivid_blue_30", "red_30"),
