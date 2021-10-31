@@ -128,7 +128,7 @@ brookings_colors <-
 
     extra_ltpurple = '#C957BC',
 
-    TESTING_purp = '#C957BC',
+    TESTING_purp = '#C957BC'
 
     )
 
